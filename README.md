@@ -1,7 +1,6 @@
 # SQL-project-Olympics-history
 This is a data analysis project using SQLite and data about the Olympics from Kaggle.
 This project analyses the data to derive descriptive statistics and answer the following questions:
-1.## Key Questions Answered
 
 1. **Which nation has participated in all Olympic Games?**  
    - 🔗 [View SQL Query](queries/nations_all_olympics.sql)
