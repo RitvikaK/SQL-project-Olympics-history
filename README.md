@@ -9,4 +9,6 @@ This project analyses the data to derive descriptive statistics and answer the f
 6.  Which countries have never won gold medal but have won silver/bronze medals?
 7.  In which Sport/event, India has won highest medals.
 8.  Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+
+   
 Each question is separated by files, with the SQL query, result and visual where appropriate.
