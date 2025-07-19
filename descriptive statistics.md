@@ -3,8 +3,8 @@
 ### General Statistics
 | Statistic Name                                  | Result | SQL Query |
 |------------------------------------------------|--------|-----------|
-| Total Number of Athletes                        |        | `SELECT count(distinct name) FROM athlete_events;` |
-| Number of Summer and Winter Games               |        | `SELECT count(distinct year), season FROM athlete_events GROUP BY season;` |
+| Total Number of Athletes                        |   134731| `SELECT count(distinct name) FROM athlete_events;` |
+| Number of Summer and Winter Games               | 29,22       | `SELECT count(distinct year), season FROM athlete_events GROUP BY season;` |
 | Total Years There Was a Game (With Season)     |        | `SELECT distinct year, season FROM athlete_events ORDER BY year;` |
 
 ### Location-Based Statistics
